@@ -57,6 +57,6 @@ Para el mapa de bits podemos usar igualmente un conversor online [Click aqui](ht
 ![Captura](https://user-images.githubusercontent.com/79547422/222855593-53550f38-a455-41f2-ae12-2a10b7876e73.JPG)
 
 # Links:
-> https://wokwi.com/projects/357220558913843201
-> https://extramaster.net/tools/midiToArduino/
-> https://javl.github.io/image2cpp/
+> - https://wokwi.com/projects/357220558913843201
+> - https://extramaster.net/tools/midiToArduino/
+> - https://javl.github.io/image2cpp/
