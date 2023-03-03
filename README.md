@@ -60,3 +60,8 @@ Para el mapa de bits podemos usar igualmente un conversor online [Click aqui](ht
 > - https://wokwi.com/projects/357220558913843201
 > - https://extramaster.net/tools/midiToArduino/
 > - https://javl.github.io/image2cpp/
+
+#Referencia del proyecto
+
+- https://www.tiktok.com/@donielsaurio/video/7198698230345911557
+Tiktok: @donielsaurio
